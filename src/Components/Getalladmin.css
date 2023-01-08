@@ -1,0 +1,22 @@
+.deleteupdate-icon {
+    padding: 5px;
+}
+.deleteupdate-icon:hover{
+    background: #00b4b4;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+}
+.addbutton:hover{
+    background: #00b4b4;
+    color: white;
+}
+.yes-icon{
+    background: #00b4b4;
+    color: white;
+}
+.toastdesign{
+    background: white;
+    
+    
+}

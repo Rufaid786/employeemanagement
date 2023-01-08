@@ -1,0 +1,13 @@
+
+.topsection{
+    
+    background:#f9f9f9;
+    border-bottom:2px  solid rgba(223, 221, 221,1);
+}
+
+.close-icon:hover{
+    cursor: pointer;
+}
+.disable-icon{
+    background: #eceef1;
+}

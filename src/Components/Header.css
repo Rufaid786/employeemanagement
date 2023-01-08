@@ -1,0 +1,16 @@
+.headersection{
+    padding: 7px;
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    
+    color: #00b4b4;
+}
+.titleandlogo{
+    margin-left: -20px;
+    margin-top: 28px;
+    display: flex;
+    flex-direction: row;
+    
+}
